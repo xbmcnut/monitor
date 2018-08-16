@@ -307,7 +307,7 @@ sudo nano mqtt_preferences
 11. **[CONFIGURE MONITOR]** edit **known_static_devices**: 
 
 ```
-nano known_static_devices
+nano known_static_addresses
 ```
 
 12. **[READ HELPFILE]**:
